@@ -16,5 +16,5 @@ cp -rf ./limits.conf /etc/security/limits.conf
 cp -rf ./supervisord.conf /etc/supervisor/supervisord.conf
 /etc/init.d/supervisor restart all
 
-cp -rf ./rc.local /etc/rc.local
-/etc/rc.local
+#cp -rf ./rc.local /etc/rc.local
+#/etc/rc.local
