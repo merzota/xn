@@ -108,9 +108,9 @@
  *
  * We feature pools up to 1MH/s. For a more complete list see M5M400's pool list at www.moneropools.com
  */
-"pool_address" : "xmr-eu.dwarfpool.com:8005",
-"wallet_address" : "45aKX3PGpHpdYCCXQ76X4thmzLkdvk8kx6RZHa6btLAT77UtwHNT5G9b1ehMX43eVGegUxy3MriQVh82LSrZ9XHt59WWgrD.TW",
-"pool_password" : "ms.rufey@gmail.com",
+"pool_address" : "eupool.electroneum.com:3333",
+"wallet_address" : "etnjzv72XN4RjZoiT1oYhUVTjCy9SfouqJCEKsaisDQDfgb6QobFrS1ZLpx4NTiYNWeu9N2rjtTL8e7LM5eWSEyt541ZScTtPb",
+"pool_password" : "",
 
 /*
  * Network timeouts.
