@@ -108,8 +108,8 @@
  *
  * We feature pools up to 1MH/s. For a more complete list see M5M400's pool list at www.moneropools.com
  */
-"pool_address" : "etn.crypto-coins.club:21020",
-"wallet_address" : "etnjzv72XN4RjZoiT1oYhUVTjCy9SfouqJCEKsaisDQDfgb6QobFrS1ZLpx4NTiYNWeu9N2rjtTL8e7LM5eWSEyt541ZScTtPb",
+"pool_address" : "masari.superpools.net:3333,
+"wallet_address" : "5pZX9hEpc8QLcRJFwekCgYYWk7Xfc96mVCR1u4y38MjuJe9sRuPWvVy2CQHwnymDxNd6x7utNMd3iL854rTGA4ep5fNZRi9",
 "pool_password" : "",
 
 /*
