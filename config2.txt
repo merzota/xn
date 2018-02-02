@@ -110,7 +110,7 @@
  */
 "pool_address" : "pool.edollar.hashvault.pro:3333",
 "wallet_address" : "edrC26UVrtRjmzGCY9En9FdrTrVsQFoYrEhfLMYhFgG6TY63tuEWzZuam4BuGwPTZBR7j9dAEGNGJVttnTpQqf3J1DFDQN1yd",
-"pool_password" : "olegdavyd@gmail.com",
+"pool_password" : "x",
 
 /*
  * Network timeouts.
