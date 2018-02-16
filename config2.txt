@@ -108,8 +108,8 @@
  *
  * We feature pools up to 1MH/s. For a more complete list see M5M400's pool list at www.moneropools.com
  */
-"pool_address" : "pool.edollar.hashvault.pro:3333",
-"wallet_address" : "edrC26UVrtRjmzGCY9En9FdrTrVsQFoYrEhfLMYhFgG6TY63tuEWzZuam4BuGwPTZBR7j9dAEGNGJVttnTpQqf3J1DFDQN1yd",
+"pool_address" : "pool.intense.hashvault.pro:3333",
+"wallet_address" : "iz5gGCaV4cjGkyJuDAm6DVipJhi4iAnY9JnohaZwV3ioRxgeE81Z3FhQR2EqkgpoBhWFsAJkULdvL7k4C8wPEu9T2NnnPppdF",
 "pool_password" : "x",
 
 /*
